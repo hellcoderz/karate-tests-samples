@@ -1,0 +1,1 @@
+docker, run, -d, -e, KARATE_SOCAT_START=true, --cap-add=SYS_ADMIN, -p, 34289:9222, justinribeiro/chrome-headless
