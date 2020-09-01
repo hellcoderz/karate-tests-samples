@@ -1,1 +1,1 @@
-java -jar karate-0.9.6.jar ui/test-headless.feature
+java -jar karate-0.9.6.jar tests/test-headless.feature
