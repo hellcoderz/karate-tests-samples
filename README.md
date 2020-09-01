@@ -7,4 +7,4 @@
 ## How to view tests results
 - after running the tests there will be a `target` folder created with test reports
 - open the file `target/surefire-reports/karate-summary.html` in broswer to see the test results
-[![Karate Tests Report](/karate-tests-report.png)](/karate-tests-report.mp4)
+[![Karate Tests Report](/karate-tests-report.gif)](/karate-tests-report.gif)
